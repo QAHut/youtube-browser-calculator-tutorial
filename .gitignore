@@ -1,0 +1,14 @@
+.idea/
+*.py[cod]
+*$py.class
+__pycache__/
+logs/
+*.egg-info/
+*.egg
+eggs/
+.eggs/
+build/
+dist/
+wheels/
+env/
+webdrivers/
